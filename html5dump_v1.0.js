@@ -4,7 +4,7 @@
 * This JavaScript code will dump in an automated fashion ALL the content of the
 * HTML 5 Client-side Storage technology of the attacked domain.
 * 
-* Download the last version at: http://
+* Download the last version at: https://code.google.com/p/html5dump
 * 
 * Written by Sro [http://sro.co.il]
 * 
